@@ -15,3 +15,5 @@ See if you can get your app to incude the following bonus items:
 + An app that can handle both conversaion directions (i.e. F-C and C-F)
 + An image in the interface
 + Method calls for the conversion
+
+<a href='https://learn.co/lessons/pc-ios-cc-tempconverter' data-visibility='hidden'>View this lesson on Learn.co</a>
