@@ -16,4 +16,4 @@ See if you can get your app to incude the following bonus items:
 + An image in the interface
 + Method calls for the conversion
 
-<a href='https://learn.co/lessons/pc-ios-cc-tempconverter' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-cc-tempconverter' title='Code Challenge'>Code Challenge</a> on Learn.co and start learning to code for free.</p>
